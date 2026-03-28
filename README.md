@@ -1,5 +1,7 @@
 # QB Expense Report Bot
 
+Disclaimer: This repository is the public version of an original repository that contains private information.
+
 A Python automation that fetches the latest **QuickBooks Excel report** from a Google Drive folder, processes expense data, and delivers a formatted **HTML email report** with plain-text attachments — triggered on demand or via an external scheduler through GitHub Actions.
 
 ---
